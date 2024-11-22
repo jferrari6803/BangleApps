@@ -1,0 +1,6 @@
+require("Storage").write("deciclock.info",{
+  "id":"deciclock",
+  "name":"Decimal Clock",
+  "type":"clock",
+  "src":"deciclock.app.js"
+});
